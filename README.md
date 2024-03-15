@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Omkar Dabholkar</h1>
-<h3 align="center">A passionate Data analyst</h3>
+<h3 align="center">A passionate Data analyst</h3>  
+
+![google forms banner](https://github.com/omkardabholkar/omkardabholkar/assets/163356063/c13d890e-92ad-4eca-a9db-086f77409c24)  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkardabholkar&label=Profile%20views&color=0e75b6&style=flat" alt="omkardabholkar" /> </p>
+
+<img align="right" alt="GIF" src="https://github.com/omkardabholkar/omkardabholkar/assets/163356063/8bafa81e-7165-4f41-8f6c-43ece07d8666" width="500" height="318" />
+
 
 - 🌱 I’m currently learning **Databricks**
 
