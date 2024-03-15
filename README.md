@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkardabholkar&label=Profile%20views&color=0e75b6&style=flat" alt="omkardabholkar" /> </p>
 
-<img align="right" alt="GIF" src="https://github.com/omkardabholkar/omkardabholkar/assets/163356063/8bafa81e-7165-4f41-8f6c-43ece07d8666" width="500" height="318" />
+<img align="right" alt="GIF" src="https://github.com/omkardabholkar/omkardabholkar/assets/163356063/8bafa81e-7165-4f41-8f6c-43ece07d8666" width="400" height="260" />
 
 
 - 🌱 I’m currently learning **Databricks**
