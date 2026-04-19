@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Dabholkar</h1>
-<h3 align="center">A passionate Data analyst</h3>  
+
 
 ![google forms banner](https://github.com/omkardabholkar/omkardabholkar/assets/163356063/c13d890e-92ad-4eca-a9db-086f77409c24)  
 
