@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
-- 👨‍💻 My Portfolio [Samplelink](Samplelink)
+- 👨‍💻 [My Portfolio](https://omkardabholkar.github.io/)
 
 - 💬 Ask me about **Tableau, Snowflake**
 
-- 📫 How to reach me **opdabhol@syr.edu**
+- 📫 How to reach me **op.dabholkar@gmail.com**
 
 - ⚡ Hobbies **Travelling, Trekking**
 
